@@ -1,0 +1,2 @@
+TOKEN = "bot_token"
+ADMIN_ID = 123456789
